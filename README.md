@@ -8,7 +8,8 @@ Presentation and code developed by Alex Khan
 Portions of code were taken from AWS sample code
 
 
-This is an introductory set for running IonQ using AWS Braket Service.
+/ This is an introductory set for running IonQ using AWS Braket Service.
+Contains powerpoint presentation and Jupyter notebook
 
 The presentation outlines the steps to get started with AWS Braket and 
 provides a sample code (Jupyter notebook) with two example circuits
