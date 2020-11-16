@@ -2,6 +2,8 @@
 Demo for Ion Q using AWS
 Hosted by Harrisburg University
 
+November 16, 2020
+
 Presentation and code developed by Alex Khan 
 Portions of code were taken from AWS sample code
 
