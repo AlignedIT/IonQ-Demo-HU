@@ -4,7 +4,8 @@ Hosted by Harrisburg University
 
 November 16, 2020
 
-Presentation and code developed by Alex Khan 
+Presentation and code developed by Alex Khan.
+
 Portions of code were taken from AWS sample code
 
 
