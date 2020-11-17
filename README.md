@@ -6,7 +6,8 @@ November 16, 2020
 
 Presentation and code developed by Alex Khan.
 
-Portions of code were taken from AWS sample code
+Note: Portions of code were taken from AWS sample code 
+IBM QPU image is the property of IBM
 
 
 / This is an introductory set for running IonQ using AWS Braket Service.
