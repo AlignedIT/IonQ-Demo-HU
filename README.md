@@ -17,6 +17,8 @@ The presentation outlines the steps to get started with AWS Braket and
 provides a sample code (Jupyter notebook) with two example circuits
 that can be run on IonQ and compared with other QPUs example IBM-Quantum.
 
+11/18/2020 includes a 2-digit binary adder code sample for IonQ
+
 The purpose of the demo is to show the higher quality results from an
 actual quantum device due to the higher fidelity and full interconnectivity 
 between the qubits.
