@@ -2,6 +2,10 @@
 Demo for Ion Q using AWS
 Hosted by Harrisburg University
 
+
+11/18/2020 Update
+Now includes a 2-digit binary adder code sample for IonQ
+
 November 16, 2020
 
 Presentation and code developed by Alex Khan.
@@ -17,11 +21,9 @@ The presentation outlines the steps to get started with AWS Braket and
 provides a sample code (Jupyter notebook) with two example circuits
 that can be run on IonQ and compared with other QPUs example IBM-Quantum.
 
-11/18/2020 includes a 2-digit binary adder code sample for IonQ
-
 The purpose of the demo is to show the higher quality results from an
 actual quantum device due to the higher fidelity and full interconnectivity 
 between the qubits.
 
-It cant be overstated, that IonQ device has 11 ions suspended in a magnetic
+It can't be overstated, that IonQ device has 11 ions suspended in a magnetic
 field and are being used to compute through gate operations through laser beams. 
